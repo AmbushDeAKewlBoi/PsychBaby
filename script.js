@@ -4,25 +4,25 @@ const stages = [
         theorist: "Erik Erikson",
         age: "0-18 months",
         image: "baby1.jpg",
-        event: "Learning to trust caregivers for basic needs like feeding, comfort, and security. The baby cries when hungry and learns whether someone will reliably respond.",
+        event: "I knew that for a few years of my life I lived with my grandparents because my parents were moving around a lot. When I asked my parents about a interesting thing, they told me about how I was more attached to my grandparents for a few days of my life when they came over. The photo is of my first birthday and that was when I was kind of getting used to my parents.",
         explanation: "This is Erikson's Trust vs. Mistrust stage. Infants develop a sense of trust when caregivers provide reliable care and affection. Consistent positive experiences lead to feelings of safety and trust in the world.",
-        connection: "Erikson believed that successful resolution of this stage creates hope and confidence. If needs are not met consistently, the child may develop mistrust and anxiety about the world around them."
+        connection: "I trusted my grandparents more then my parents at this point because I always saw them and I saw my parents much less in comparision. I learned to trust my grandparents because they provided more reliable care and affection at this point in life."
     },
     {
         title: "Toddlerhood",
         theorist: "Erik Erikson",
         age: "18 months - 3 years",
         image: "baby2.jpg",
-        event: "Beginning to assert independence through actions like choosing clothes, feeding themselves, or saying 'no' to parents.",
+        event: "This picture was taken after my 'first' dish that I cooked. Apparently when I was younger I wanted to be a cook and used to play with kitchen utensils a lot. This was at my grandparents house when they gave me some batter and a fake stove and pan and told me that it was real. I rubed some batter on the fake pan and thought I was really making food. Then my grandparents brought an actually cooked Dosa and told me that I made it.",
         explanation: "This is Erikson's Autonomy vs. Shame and Doubt stage. Toddlers start to assert their independence and develop a sense of personal control. They want to do things by themselves.",
-        connection: "Erikson emphasized that allowing children to make choices and gain independence (within safe limits) helps them develop confidence and autonomy. Too much criticism or control can lead to feelings of shame and doubt about their abilities."
+        connection: "This event represents Erikson’s Autonomy vs. Shame and Doubt stage because my grandparents encouraged my independence instead of correcting or discouraging me. They allowed me to believe I was cooking and celebrated my effort. They supported my sense of autonomy."
     },
     {
         title: "Early Childhood",
         theorist: "Jean Piaget",
         age: "2-7 years",
         image: "baby3.jpg",
-        event: "Engaging in pretend play, like having tea parties with stuffed animals or pretending a box is a spaceship.",
+        event: "",
         explanation: "This is Piaget's Preoperational Stage. Children develop symbolic thinking and use language, but their thinking is intuitive and egocentric. They believe everyone sees the world as they do.",
         connection: "Piaget identified that children at this age cannot yet perform mental operations or think logically about abstract concepts. They focus on one aspect of a situation at a time and struggle with conservation tasks."
     },
