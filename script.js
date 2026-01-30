@@ -31,45 +31,45 @@ const stages = [
         theorist: "Jean Piaget",
         age: "7-11 years",
         image: "baby4.jpg",
-        event: "Learning to solve math problems, understanding that the amount of water stays the same when poured into different containers, and thinking logically about concrete situations.",
+        event: "This photo was during my schools annual day. I was participating in scooter racing(which I still remember), brick breaking, and scooter racing competition. During the race I geniusly figured out that the more inside you are the shorter your track is going to be. This was because everyone were starting from the same place in a circular race track. ",
         explanation: "This is Piaget's Concrete Operational Stage. Children develop logical thinking about concrete objects and situations. They can perform mental operations and understand conservation, reversibility, and classification.",
-        connection: "Piaget showed that children in this stage can think logically about tangible problems and understand cause and effect. However, they still struggle with abstract or hypothetical concepts until they reach formal operations."
+        connection: "Piaget showed that children in this stage can think logically about tangible problems and understand cause and effect. I was able to figure out that standing inside would allow me to be faster causing me to win my race."
     },
     {
         title: "Late Childhood",
         theorist: "Lawrence Kohlberg",
         age: "8-11 years",
         image: "baby5.jpg",
-        event: "Following classroom rules to avoid punishment and gain teacher approval. Understanding that rules help maintain order.",
+        event: "This school was rather prestegious in my area hence my parents wanted me to go there my whole life. Even though I was content with my friends at my current school, I wanted to make my parents proud and I also really liked the uniform. These became my two main factors to try to get into this school and did just that. This photo was my first day at this school with a poorly attempted smug face.",
         explanation: "This represents Kohlberg's Conventional Level of moral development. Children start to internalize social rules and make decisions based on pleasing others and maintaining social order.",
-        connection: "Kohlberg's theory shows that moral reasoning develops in stages. At this level, children are concerned with being 'good' in the eyes of others and following established rules to maintain relationships and social order."
+        connection: "Kohlberg's theory shows that moral reasoning develops in stages. At this level, children are concerned with being 'good' in the eyes of others and following established rules to maintain relationships and social order. This is exactly what I did. To be 'good' infront of my peers and parents, I worked hard to get into this school and felt proud about it."
     },
     {
         title: "Early Adolescence",
         theorist: "Erik Erikson",
         age: "12-14 years",
         image: "baby6.jpg",
-        event: "Exploring different friend groups, trying new hobbies, and beginning to question 'Who am I?' and 'Where do I fit in?'",
+        event: "This photo is when I came to America and really started to question my identity. Though this photo is much younger then the age range, this was when all my questions really started and still do go on. My style and the way I acted changed to as we can see with the unique choice to dressing.",
         explanation: "This is the beginning of Erikson's Identity vs. Role Confusion stage. Adolescents explore different roles, beliefs, and identities to develop a sense of self.",
-        connection: "Erikson emphasized that adolescence is a critical period for developing personal identity. Successful exploration leads to a strong sense of self, while confusion can result from inability to establish a stable identity."
+        connection: "Even though I seem too young to be in Identity vs. Role Confusion, my move to America was a huge change creating a lot of questions. The picture shows the age at which they all started but it lasts well into the current me. "
     },
     {
         title: "Middle Adolescence",
         theorist: "Jean Piaget",
         age: "14-16 years",
         image: "baby7.jpg",
-        event: "Beginning to think about abstract concepts like justice, freedom, and mortality. Debating hypothetical scenarios and considering 'what if' questions.",
+        event: "After stepping into High School, I met a lot of different and interesting people who made me think about wether I am living life to the fullest. Things like what I want to do when I grow up, how I want to look, how I want to be were all questioned. One of the biggest changes that came out of this stage was my step toward bettering myself for the sake of not only people around me but also myself. One of the biggest ways I did that was by starting to work out.",
         explanation: "This is Piaget's Formal Operational Stage. Adolescents develop abstract reasoning and can think about hypothetical situations, test hypotheses, and consider multiple perspectives.",
-        connection: "Piaget identified this as the final stage of cognitive development. Teens can now engage in systematic problem-solving, philosophical thinking, and can consider multiple variables simultaneously."
+        connection: "I had many 'what ifs' in this time period. 'what if I grow up to have the conditions adults I know have', 'what if I fail to impress someone just because of the way I look', or 'what if I can't be a person that contributes to society'. These questions pushed me to be a better man and take action on these fears that I used to have. "
     },
     {
         title: "Late Adolescence",
         theorist: "Lawrence Kohlberg",
         age: "16-18 years",
         image: "baby8.jpg",
-        event: "Questioning societal rules and developing personal ethical principles. Considering whether laws are just and thinking about universal human rights.",
+        event: "This picture was taken last year and it was with a famous celebrity from India named 'Nani.' He is my favorite Indian actor and had made many stunning movies. I may even say I consider him my biggest inspiration. I assumed he would be a flashy guy with bodyguards and the tipical celebrity aura but he was just a simple man sitting in the temple with absolutely no attention towards him.",
         explanation: "This can represent Kohlberg's Postconventional Level. Some adolescents begin to develop moral reasoning based on abstract principles of justice and individual rights rather than just following rules.",
-        connection: "Kohlberg found that only some people reach this level of moral reasoning, where they evaluate rules based on abstract ethical principles. They recognize that laws can be unjust and may choose to follow higher moral principles."
+        connection: "I always believed that success meant flashy wealth and huge cars and attention surrounding me. This man was the example of success in my opinion but I never saw how he really used that success. He didn't have a fancy car or a 10k suit or bodyguards everywhere. But he was the quiet type of wealth. The wealth that doesn't flex itself where ever it goes. Which made me think about what I want my version of succes to really be."
     }
 ];
 
