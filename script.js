@@ -22,9 +22,9 @@ const stages = [
         theorist: "Jean Piaget",
         age: "2-7 years",
         image: "baby3.jpg",
-        event: "",
+        event: "I was talking to my mom about this photo because I found it rather interesting and she mentioned that it was from my sisters name function. This jewlery is obviously supposed to go on women but I wore it for fun not understanding gender and complex topics like what one should and shouldn't wear. In my eyes everything there was mine and mine only and I refused to give it to anyone which caused quite a laugh in the room.",
         explanation: "This is Piaget's Preoperational Stage. Children develop symbolic thinking and use language, but their thinking is intuitive and egocentric. They believe everyone sees the world as they do.",
-        connection: "Piaget identified that children at this age cannot yet perform mental operations or think logically about abstract concepts. They focus on one aspect of a situation at a time and struggle with conservation tasks."
+        connection: "In this photo I was able to clearly put on things that would require some extent of logical reasoning and motor efforts but I couldn't understand that there are some things that are limited to certain people and that not everything belongs to me just because its in my room."
     },
     {
         title: "Middle Childhood",
